@@ -1,6 +1,10 @@
 # SEGASG1000
 ## Fundada en los Estados  Unidos
-**Sunt anim eu velit consectetur.** Veniam consequat tempor eu ullamco et consectetur deserunt occaecat exercitation occaecat fugiat reprehenderit. In Lorem elit proident ullamco duis non ad ut _PONG_ commodo veniam irure. Et aliqua enim irure quis dolor eiusmod incididunt. Proident 
+**Sunt anim eu velit consectetur.** Veniam 
+
+--- 
+
+consequat tempor eu ullamco et consectetur deserunt occaecat exercitation occaecat fugiat reprehenderit. In Lorem elit proident ullamco duis non ad ut _PONG_ commodo veniam irure. Et aliqua enim irure quis dolor eiusmod incididunt. Proident 
 
 ---
 
