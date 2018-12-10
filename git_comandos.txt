@@ -1,0 +1,5 @@
+comandos de git
+
+git (siempre poner este comando)
+git init - crear un git
+md - para documentacion en git 
